@@ -256,5 +256,3 @@ Eligible orders can be cancelled, with inventory restored according to the busin
 **Praveen Kumar**
 
 Java Developer | Spring Boot | Backend Development
-
-```
