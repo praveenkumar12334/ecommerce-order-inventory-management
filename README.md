@@ -65,6 +65,10 @@ Repository Layer
 MySQL Database
 ````
 
+### 📊 Project Flow & Architecture
+
+![Project Flow & Architecture](docs/project-flow.png)
+
 ## 👥 User Roles
 
 ### CUSTOMER
