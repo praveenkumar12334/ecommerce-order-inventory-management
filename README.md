@@ -150,6 +150,24 @@ The application uses:
 
 Passwords are not returned in API responses.
 
+### Security Flow
+
+```text
+Client
+   ↓
+Login
+   ↓
+JWT Token
+   ↓
+JWT Authentication Filter
+   ↓
+Spring Security
+   ↓
+Role-Based Authorization
+   ↓
+Protected REST API
+```
+
 ## 🧪 Testing
 
 The project includes tests for:
