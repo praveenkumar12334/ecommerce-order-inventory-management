@@ -3,6 +3,12 @@
 
 A backend-focused E-commerce Order & Inventory Management System built using Java and Spring Boot. The application manages products, inventory, customers, shopping carts, orders, payments, deliveries, suppliers, and stock movements through secure REST APIs.
 
+## 📸 API Documentation
+
+The project provides interactive REST API documentation using Swagger UI.
+
+![Swagger API Documentation](docs/swagger-api.png)
+
 ## 🚀 Features
 
 - Customer registration and JWT-based login
